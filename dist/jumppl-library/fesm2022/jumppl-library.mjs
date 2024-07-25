@@ -33,11 +33,11 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.1.1", ngImpor
 
 class FileUploadComponent {
     static ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "18.1.1", ngImport: i0, type: FileUploadComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
-    static ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.1.1", type: FileUploadComponent, selector: "lib-file-upload", ngImport: i0, template: "<p>file-upload works!</p>\n", styles: [""] });
+    static ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.1.1", type: FileUploadComponent, selector: "lib-file-upload", ngImport: i0, template: "<p>file-upload work!</p>\n", styles: [""] });
 }
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.1.1", ngImport: i0, type: FileUploadComponent, decorators: [{
             type: Component,
-            args: [{ selector: 'lib-file-upload', template: "<p>file-upload works!</p>\n" }]
+            args: [{ selector: 'lib-file-upload', template: "<p>file-upload work!</p>\n" }]
         }] });
 
 class CustomFieldsModule {
